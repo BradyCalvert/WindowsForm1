@@ -1,0 +1,17 @@
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\bin\Debug\wintest1.exe.config
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\bin\Debug\wintest1.exe
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\bin\Debug\wintest1.pdb
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\obj\Debug\wintest1.formGideon.resources
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\obj\Debug\wintest1.Properties.Resources.resources
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\obj\Debug\wintest1.csproj.GenerateResource.Cache
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\obj\Debug\wintest1.exe
+C:\Temp\Visual Studio 2015\Projects\wintest1\wintest1\obj\Debug\wintest1.pdb
+C:\Users\Corvo\Desktop\wintest1\wintest1\bin\Debug\wintest1.exe.config
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.exe
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.pdb
+C:\Users\Corvo\Desktop\wintest1\wintest1\bin\Debug\wintest1.exe
+C:\Users\Corvo\Desktop\wintest1\wintest1\bin\Debug\wintest1.pdb
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.csprojResolveAssemblyReference.cache
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.formGideon.resources
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.Properties.Resources.resources
+C:\Users\Corvo\Desktop\wintest1\wintest1\obj\Debug\wintest1.csproj.GenerateResource.Cache
